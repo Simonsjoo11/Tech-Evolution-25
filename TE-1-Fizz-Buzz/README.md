@@ -12,7 +12,7 @@ This project prints numbers from 1 to 100, but with a twist:
 
 1. **Install dependencies:**
    ```bash
-   node install
+   npm install
    ```
 
 2. **Run the program:**
