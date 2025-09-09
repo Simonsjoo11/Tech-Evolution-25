@@ -1,4 +1,4 @@
-const fizzBuzz = require("../main");
+const fizzBuzz = require("../index");
 
 test("If number is divisible by 3, return Fizz", () => {
   expect(fizzBuzz(3)).toBe("Fizz");
