@@ -1,10 +1,10 @@
 {
-  "name": "te-1-fizz-buzz",
+  "name": "cip-01-fizzbuzz",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon main.js",
+    "start": "nodemon index.js",
     "test": "jest"
   },
   "author": "",
